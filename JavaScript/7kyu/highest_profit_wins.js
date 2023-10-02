@@ -1,5 +1,5 @@
 /*
-8kyu
+7kyu
 INSTRUCTIONS:
 DESCRIPTION:
 Story
