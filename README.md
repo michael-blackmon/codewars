@@ -1,2 +1,2 @@
 # codewars
-My codewars solutions, mostly messing around with JavaScript and C++
+My codewars solutions, mostly with JavaScript and C++
